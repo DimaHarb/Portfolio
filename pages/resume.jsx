@@ -23,7 +23,7 @@ const resume = () => {
           <div className='flex'>
 
             <a
-              href='tel:+96176734358'
+              href='tel:+96178826461'
               target='_blank'
               rel='noreferrer'
             >
