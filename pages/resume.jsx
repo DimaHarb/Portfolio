@@ -73,7 +73,7 @@ const resume = () => {
         <div className=' py-4'>
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
-            <span className='px-2 font-bold'>Front-End:</span> 
+            <span className='font-bold'>Front-End:</span> 
             <span className='px-2'>|</span> HTML
             <span className='px-2'>|</span> CSS
             <span className='px-2'>|</span> TailwindCSS
